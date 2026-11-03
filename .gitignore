@@ -1,0 +1,26 @@
+# Java / Maven
+backend/target/
+
+# Node / React / Vite
+frontend/node_modules/
+frontend/dist/
+
+# Logs
+*.log
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Configurações locais
+application-local.properties
